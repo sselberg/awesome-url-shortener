@@ -44,6 +44,7 @@
 * [pygmy](https://github.com/amitt001/pygmy) - An open-source, feature rich & extensible url-shortener + analytics written in Python.
 * [dub.sh](https://dub.sh) - A open-source link management tool for modern marketing teams to create, share, and track short links.
 * [Eastlake](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker.
+* [Goalie](https://github.com/AxisCommunications/goalie-url-shortener) - Feature rich open-source url-shortener with LDAP/AD integration.
 
 ## Deprecated Services
 
